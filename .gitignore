@@ -1,0 +1,6 @@
+# 本地配置(不提交)
+.DS_Store
+.claude/settings.local.json
+
+# 临时歌词/产物
+lyrics*.txt
